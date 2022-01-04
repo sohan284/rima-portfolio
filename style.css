@@ -1,0 +1,116 @@
+body{
+    background-color: gray;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.w{
+    font-size: 50px;
+}
+.Name{
+    color: tomato;
+    font-family: 'Island Moments', cursive;
+    font-size: 70px;
+}
+.text{
+    margin-left: 100px;
+}
+.width{
+    width: 50%;
+}
+.width2{
+    width: 40%;
+}
+.width3{
+    width: 60%
+    ;
+}
+section{
+    height: 10%;
+    display: flex;
+    background-color: grey;
+}
+.button{
+    color: rgb(229, 192, 192);
+    padding: 8px;
+    text-decoration: none;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-image: linear-gradient(tomato,purple);
+    
+}
+.stsection{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.img img{
+    width: 600px;
+    height: 500px;
+}
+.img2 img{
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 500px;
+}
+.ru{
+    color: rgb(65, 45, 10);
+}
+.ndsection{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.w1{
+    font-size: 50px;
+    margin-left: 100px;
+    color: 
+    rgb(20, 73, 109)
+}
+.width5{
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(49, 13, 148),rgb(126, 11, 36));
+    border-image-slice: 1;
+    border-radius: 10px;
+    margin: 2%;
+    width: 32%;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+.width6{
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(6, 129, 26),rgb(126, 114, 11));
+    border-image-slice: 1;
+    border-radius: 10px;
+    margin: 2%;
+    width: 32%;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+.width7{
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(13, 121, 148),rgb(161, 23, 127));
+    border-image-slice: 1;
+    border-radius: 10px;
+    margin: 2%;
+    width: 32%;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+.scu{
+    margin-top: 0px;
+    font-size: 50px;
+    border: 10px solid;
+    border-left: 0px;
+    border-image: linear-gradient(rgb(133, 57, 14),rgb(50, 78, 5));
+    border-image-slice: 1;
+    border-radius: 2px;
+}
+.p{
+    padding: 5px;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+}
+    
