@@ -44,11 +44,10 @@ section{
     
 }
 .img img{
-    width: 600px;
-    height: 500px;
+    width: 50%;
 }
 .img2 img{
-    width: 500px;
+    width: 50%;
     margin-top: 100px;
     margin-left: 100px;
     border-radius: 500px;
